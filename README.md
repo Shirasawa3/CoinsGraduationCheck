@@ -3,9 +3,11 @@
 ### プログラムの概要
 このプログラムでは筑波大学coins22生が現在卒業要件をどれくらい満たしているかを確認することができます。
 
-### プログラムの実行方法
+### 表示される結果
+
+### 実行方法
 1. twinsより成績のcsvファイルを取得。
 2. このPythonファイルを成績のファイルと同じディレクトリにインストールし、コマンドライン上で以下のコマンドを実行。
    ```
-   Python CoinsGraduationChecker.py seiseki.csv`
+   Python CoinsGraduationChecker.py seiseki.csv
    ```
