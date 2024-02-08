@@ -6,4 +6,6 @@
 ### プログラムの実行方法
 1. twinsより成績のcsvファイルを取得。
 2. このPythonファイルを成績のファイルと同じディレクトリにインストールし、コマンドライン上で以下のコマンドを実行。
-   `Python CoinsGraduationChecker.py seiseki.csv`
+   ```
+   Python CoinsGraduationChecker.py seiseki.csv`
+   ```
