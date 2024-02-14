@@ -11,4 +11,5 @@
    ```
 
 ### 実行結果（例）
+<img width="350" alt="スクリーンショット 2024-02-02 145917" src="https://github.com/Shirasawa3/CoinsGraduationChecker/assets/156413299/145abde2-0c19-447a-bd6f-63fd200206a0">
 
