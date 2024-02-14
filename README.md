@@ -6,7 +6,7 @@
 ### 表示される結果
 
 ### 実行方法
-1. twinsより成績のcsvファイルを取得。
+1. twinsより成績のcsvファイル(Shft-JIS)を取得。
 2. このPythonファイルを成績のファイルと同じディレクトリにインストールし、コマンドライン上で以下のコマンドを実行。
    ```
    Python CoinsGraduationChecker.py seiseki.csv
